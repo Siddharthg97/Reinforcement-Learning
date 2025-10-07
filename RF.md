@@ -18,3 +18,12 @@ Reinforcement Learning is a part of machine learning. Here, agents are self-trai
 It’s about taking the best possible action or path to gain maximum rewards and minimum punishment through observations in a specific situation.
 It acts as a signal to positive and negative behaviors. Essentially an agent (or several) is built that can perceive and interpret the environment in which is placed,
 furthermore, it can take actions and interact with it.
+
+
+
+
+## Gymnasium
+https://medium.com/@paulswenson2/an-introduction-to-building-custom-reinforcement-learning-environment-using-openai-gym-d8a5e7cf07ea
+
+We can create our own environment in gymnasium
+The primary motivation for using Gym instead of just base Python or some other programming language is designed to interact with other RL Python modules. One such module is stablebaselines3, which allows you to quickly train RL models on these environments without having to write all the algorithms yourself.
